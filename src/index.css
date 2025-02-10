@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+  font-family: Arial, sans-serif;
+  font-size: 1.5rem;
+  color: #333;
+}
