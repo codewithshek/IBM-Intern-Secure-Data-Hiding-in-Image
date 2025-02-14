@@ -48,18 +48,18 @@ github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
     ├── vite-env.d.ts
     └── assets/
 
-📌 Setup & Installation
-	1. Clone the Repository
+# 📌 Setup & Installation
+> 1. Clone the Repository
 ```
 git clone https://github.com/codewithshek/ibm-intern-secure-data-hiding-in-image.git
 cd ibm-intern-secure-data-hiding-in-image
 ```
-	2. Install Dependencies
+> 2. Install Dependencies
 ```
 npm install
 pip install -r requirements.txt
 ```
-	3. Run the Application
+> 3. Run the Application
 ```
 # Start the frontend
 npm run dev
@@ -68,7 +68,7 @@ Start the backend
 python src/app.py
 ```
 
-	1. Access the Application
+> 4. Access the Application
 Open your browser and navigate to http://127.0.0.1:5000 to start using the secure data hiding tool.
 
 #📜 Key Functions
