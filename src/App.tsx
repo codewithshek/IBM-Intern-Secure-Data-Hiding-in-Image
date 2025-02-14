@@ -127,7 +127,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 text-white p-8">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold text-center mb-8">Image Encryption System</h1>
+        <h1 className="text-4xl font-bold text-center mb-8">Secure Data Hiding in Image</h1>
         
         <div className="grid md:grid-cols-2 gap-8">
           {/* Encryption Section */}
