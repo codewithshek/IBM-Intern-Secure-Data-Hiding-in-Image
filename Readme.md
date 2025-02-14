@@ -15,8 +15,6 @@ A web-based application for securely encrypting and decrypting messages hidden w
 * HTML, CSS (Tailwind CSS), TypeScript
 * React (for building user interfaces)
 * Vite (for fast development and build tooling)
-* MetaMask Integration
-
 
 > Backend
 
