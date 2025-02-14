@@ -1,16 +1,16 @@
 # Secure Data Hiding in Image: Protecting Your Confidential Information
 A web-based application for securely encrypting and decrypting messages hidden within images, ensuring your sensitive data remains private and protected.
 
-# Preview
+# 🖼️ Preview
 ![Output-1](https://github.com/user-attachments/assets/3fe24afb-6f08-4ea0-bbb6-7f4869c44f43)
 
-🚀 Features
+# 🚀 Features
 	* Encrypt Message: Hide your secret messages within images using a secure encryption password.
 	* Decrypt Message: Retrieve hidden messages from images by providing the correct decryption password.
 	* Password Protection: Incorrect passwords generate random characters and symbols, safeguarding your data.
 
-🛠 Tech Stack
-Frontend
+# 🛠 Tech Stack
+> Frontend
 
 	* HTML, CSS (Tailwind CSS), TypeScript
 	* React (for building user interfaces)
@@ -18,7 +18,7 @@ Frontend
 	* MetaMask Integration
 
 
-Backend
+> Backend
 
 	* Python (Flask for server-side operations)
 	* Pillow (Python Imaging Library for image processing)
@@ -71,16 +71,16 @@ python src/app.py
 	1. Access the Application
 Open your browser and navigate to http://127.0.0.1:5000 to start using the secure data hiding tool.
 
-📜 Key Functions
+#📜 Key Functions
 	* encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
 	* decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
 
-💡 Future Enhancements
+#💡 Future Enhancements
 	* Implement multi-language support.
 	* Add advanced encryption algorithms for enhanced security.
 	* Develop a mobile application for on-the-go encryption and decryption.
 
-🤝 Contributing
+# 🤝 Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
 
 Made with ❤️ by D ABHISHEK YADAV as part of the IBM Cyber Security Internship
