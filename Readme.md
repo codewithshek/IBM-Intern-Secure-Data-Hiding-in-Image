@@ -80,11 +80,14 @@ python src/app.py
 
 # 💡 Future Enhancements
 
-<div style="background-color: #e0f7fa; padding: 10px; border-radius: 5px;">
+<h1>💡 Future Enhancements</h1>
 
-- [x] Implement multi-language support.
-- [x] Add advanced encryption algorithms for enhanced security.
-- [x] Develop a mobile application for on-the-go encryption and decryption.
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+  <p>✅ Implement multi-language support.</p>
+  <p>✅ Add advanced encryption algorithms for enhanced security.</p>
+  <p>✅ Develop a mobile application for on-the-go encryption and decryption.</p>
+</div>
+
 
 # 🤝: Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
