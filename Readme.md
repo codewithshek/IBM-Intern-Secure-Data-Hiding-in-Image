@@ -25,7 +25,7 @@ A web-based application for securely encrypting and decrypting messages hidden w
 * Cryptography (Python library for encryption and decryption)
 
 
-### 📂 Directory Structure
+# 📂 Directory Structure
 ```
 github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
 ├── Readme.md
@@ -50,17 +50,17 @@ github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
     └── assets/
 ```
 # 📌 Setup & Installation
-> 1. Clone the Repository
+### 1. Clone the Repository
 ```
 git clone https://github.com/codewithshek/ibm-intern-secure-data-hiding-in-image.git
 cd ibm-intern-secure-data-hiding-in-image
 ```
-> 2. Install Dependencies
+### 2. Install Dependencies
 ```
 npm install
 pip install -r requirements.txt
 ```
-> 3. Run the Application
+### 3. Run the Application
 ```
 # Start the frontend
 npm run dev
@@ -69,12 +69,15 @@ Start the backend
 python src/app.py
 ```
 
-> 4. Access the Application
-Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
+### 4. Access the Application
+```Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
+```
 
 # 📜 Key Functions
-* encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
-* decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
+
+* <span style="color:blue">encrypt_message(image, message, password):</span> encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
+
+* <span style="color:blue">decrypt_message(image, password):</span> * decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
 
 # 💡 Future Enhancements
 - [x] Implement multi-language support.
