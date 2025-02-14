@@ -80,7 +80,7 @@ Open your browser and navigate to generated custom url like http://localhost:517
 	* Add advanced encryption algorithms for enhanced security.
 	* Develop a mobile application for on-the-go encryption and decryption.
 
-: 🤝 Contributing
+# 🤝: Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
 
 Made with ❤️ by D ABHISHEK YADAV as part of the IBM Cyber Security Internship
