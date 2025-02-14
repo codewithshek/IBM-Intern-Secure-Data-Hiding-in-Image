@@ -60,6 +60,7 @@ cd ibm-intern-secure-data-hiding-in-image
 npm install 
 pip install opencv-python
 pip install Flask
+pip install pillow
 ```
 ### 3. Run the Application
 ```
