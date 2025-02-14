@@ -20,9 +20,9 @@ A web-based application for securely encrypting and decrypting messages hidden w
 
 > Backend
 
-	* Python (Flask for server-side operations)
-	* Pillow (Python Imaging Library for image processing)
-	* Cryptography (Python library for encryption and decryption)
+* Python (Flask for server-side operations)
+* Pillow (Python Imaging Library for image processing)
+* Cryptography (Python library for encryption and decryption)
 
 
 📂 Directory Structure
