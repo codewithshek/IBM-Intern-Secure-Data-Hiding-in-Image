@@ -70,7 +70,8 @@ python src/app.py
 ```
 
 ### 4. Access the Application
-```Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
+```
+Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
 ```
 
 # 📜 Key Functions
@@ -79,8 +80,6 @@ python src/app.py
 * decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
 
 # 💡 Future Enhancements
-
-<h1>💡 Future Enhancements</h1>
 
 <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
   <p>✅ Implement multi-language support.</p>
