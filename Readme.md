@@ -26,6 +26,7 @@ A web-based application for securely encrypting and decrypting messages hidden w
 
 
 📂 Directory Structure
+```
 github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
 ├── Readme.md
 ├── eslint.config.js
@@ -47,7 +48,7 @@ github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
     ├── main.tsx
     ├── vite-env.d.ts
     └── assets/
-
+```
 # 📌 Setup & Installation
 > 1. Clone the Repository
 ```
@@ -71,14 +72,14 @@ python src/app.py
 > 4. Access the Application
 Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
 
-#📜 Key Functions
-	* encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
-	* decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
+# 📜 Key Functions
+* - [x] encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
+* - [x] decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
 
-#💡 Future Enhancements
-	* Implement multi-language support.
-	* Add advanced encryption algorithms for enhanced security.
-	* Develop a mobile application for on-the-go encryption and decryption.
+# 💡 Future Enhancements
+* - [x] Implement multi-language support.
+* - [x] Add advanced encryption algorithms for enhanced security.
+* - [x] Develop a mobile application for on-the-go encryption and decryption.
 
 # 🤝: Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
