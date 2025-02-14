@@ -69,7 +69,7 @@ python src/app.py
 ```
 
 > 4. Access the Application
-Open your browser and navigate to http://127.0.0.1:5000 to start using the secure data hiding tool.
+Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
 
 #📜 Key Functions
 	* encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
@@ -80,7 +80,7 @@ Open your browser and navigate to http://127.0.0.1:5000 to start using the secur
 	* Add advanced encryption algorithms for enhanced security.
 	* Develop a mobile application for on-the-go encryption and decryption.
 
-# 🤝 Contributing
+: 🤝 Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
 
 Made with ❤️ by D ABHISHEK YADAV as part of the IBM Cyber Security Internship
