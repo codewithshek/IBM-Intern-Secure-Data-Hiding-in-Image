@@ -5,9 +5,9 @@ A web-based application for securely encrypting and decrypting messages hidden w
 ![Output-1](https://github.com/user-attachments/assets/3fe24afb-6f08-4ea0-bbb6-7f4869c44f43)
 
 # 🚀 Features
-	* Encrypt Message: Hide your secret messages within images using a secure encryption password.
-	* Decrypt Message: Retrieve hidden messages from images by providing the correct decryption password.
-	* Password Protection: Incorrect passwords generate random characters and symbols, safeguarding your data.
+* Encrypt Message: Hide your secret messages within images using a secure encryption password.
+* Decrypt Message: Retrieve hidden messages from images by providing the correct decryption password.
+* Password Protection: Incorrect passwords generate random characters and symbols, safeguarding your data.
 
 # 🛠 Tech Stack
 > Frontend
@@ -73,13 +73,13 @@ python src/app.py
 Open your browser and navigate to generated custom url like http://localhost:5173/ to start using the secure data hiding tool.
 
 # 📜 Key Functions
-* - [x] encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
-* - [x] decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
+* encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
+* decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
 
 # 💡 Future Enhancements
-* - [x] Implement multi-language support.
-* - [x] Add advanced encryption algorithms for enhanced security.
-* - [x] Develop a mobile application for on-the-go encryption and decryption.
+- [x] Implement multi-language support.
+- [x] Add advanced encryption algorithms for enhanced security.
+- [x] Develop a mobile application for on-the-go encryption and decryption.
 
 # 🤝: Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
