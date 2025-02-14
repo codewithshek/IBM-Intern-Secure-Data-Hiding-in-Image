@@ -4,6 +4,12 @@ A web-based application for securely encrypting and decrypting messages hidden w
 # 🖼️ Preview
 ![Output-1](https://github.com/user-attachments/assets/3fe24afb-6f08-4ea0-bbb6-7f4869c44f43)
 
+
+# 📑 Project Presentation
+> For a detailed overview of the project, you can refer to the project presentation:
+
+[AICTE x IBM-INTERN-PROJECT-PPT.pptx](./AICTE%20x%20IBM-INTERN-PROJECT-PPT.pptx)
+
 # 🚀 Features
 * Encrypt Message: Hide your secret messages within images using a secure encryption password.
 * Decrypt Message: Retrieve hidden messages from images by providing the correct decryption password.
@@ -27,6 +33,7 @@ A web-based application for securely encrypting and decrypting messages hidden w
 ```
 github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
 ├── Readme.md
+├── AICTE x IBM-INTERN-PROJECT-PPT.pptx
 ├── eslint.config.js
 ├── index.html
 ├── package.json
