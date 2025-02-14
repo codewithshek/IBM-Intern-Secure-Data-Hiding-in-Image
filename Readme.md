@@ -75,9 +75,9 @@ python src/app.py
 
 # 📜 Key Functions
 
-* <span style="color:blue">encrypt_message(image, message, password):</span> encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
+<span style="color:blue">encrypt_message(image, message, password):</span> encrypt_message(image, message, password): Encrypts and hides a message within an image using the provided password.
 
-* <span style="color:blue">decrypt_message(image, password):</span> * decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
+<span style="color:blue">decrypt_message(image, password):</span> * decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
 
 # 💡 Future Enhancements
 - [x] Implement multi-language support.
