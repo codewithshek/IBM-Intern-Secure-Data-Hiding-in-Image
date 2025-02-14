@@ -25,7 +25,7 @@ A web-based application for securely encrypting and decrypting messages hidden w
 * Cryptography (Python library for encryption and decryption)
 
 
-📂 Directory Structure
+### 📂 Directory Structure
 ```
 github.com/codewithshek/ibm-intern-secure-data-hiding-in-image/
 ├── Readme.md
