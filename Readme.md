@@ -57,8 +57,9 @@ cd ibm-intern-secure-data-hiding-in-image
 ```
 ### 2. Install Dependencies
 ```
-npm install
-pip install -r requirements.txt
+npm install 
+pip install opencv-python
+pip install Flask
 ```
 ### 3. Run the Application
 ```
