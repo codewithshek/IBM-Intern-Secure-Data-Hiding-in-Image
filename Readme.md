@@ -80,6 +80,8 @@ python src/app.py
 <span style="color:blue">decrypt_message(image, password) : </span> decrypt_message(image, password): Decrypts and retrieves the hidden message from an image using the correct password.
 
 # 💡 Future Enhancements
+
+<div style="background-color: #e0f7fa; padding: 10px; border-radius: 5px;">
 - [x] Implement multi-language support.
 - [x] Add advanced encryption algorithms for enhanced security.
 - [x] Develop a mobile application for on-the-go encryption and decryption.
